@@ -1,0 +1,6 @@
+@GuidedProject_AZ2003_HostAddress = http://localhost:5178
+
+GET {{GuidedProject_AZ2003_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
